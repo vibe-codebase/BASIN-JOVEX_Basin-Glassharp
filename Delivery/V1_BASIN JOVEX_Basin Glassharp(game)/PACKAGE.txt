@@ -1,0 +1,9 @@
+Company:        BASIN JOVEX
+App name:       Basin Glassharp
+Package:        com.basinjovex.basinglassharp
+Expo owner:     904-907
+Expo slug:      basin-jovex
+Version:        1.0.0 (versionCode 2)
+Target/compile: SDK 36   Min SDK: 24
+Permissions:    android.permission.VIBRATE
+Studio motto:   Pour, tune, and listen.
